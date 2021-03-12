@@ -1,6 +1,6 @@
 const pdf = require('html-pdf');
 const Vue = require('vue');
-var fs = require('fs'); //Filesystem
+var fs = require('fs'); //filesystem
 
 renderPdf();
 
